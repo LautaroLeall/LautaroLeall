@@ -8,9 +8,11 @@ Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​ 
 
 Desarrollo Y Calidad De Software 💻​
 
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-SEGUIR?style=social&logo=linkedin&logoColor=blue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600&link=www.linkedin.com%2Fin%2Flauldp">  <img alt="Static Badge" src="https://img.shields.io/badge/Instagram%20-%20Seguir?style=social&logo=instagram&logoColor=orange&logoSize=auto&labelColor=green&color=black&cacheSeconds=3600&link=https%3A%2F%2Fwww.instagram.com%2Flautaro_leall%2F%3Fhl%3Des-la">  <img alt="Static Badge" src="https://img.shields.io/badge/Twiter-Seguir?style=social&logo=x&logoColor=black&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600&link=https%3A%2F%2Fx.com%2Flautaro_leall">  
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-SEGUIR?style=social&logo=linkedin&logoColor=blue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600&link=www.linkedin.com%2Fin%2Flauldp">  
+<img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-Mensaje?style=social&logo=whatsapp&logoColor=green&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600&link=Wa.me%2F543813399463">
+<img alt="Static Badge" src="https://img.shields.io/badge/Instagram%20-%20Seguir?style=social&logo=instagram&logoColor=orange&logoSize=auto&labelColor=green&color=black&cacheSeconds=3600&link=https%3A%2F%2Fwww.instagram.com%2Flautaro_leall%2F%3Fhl%3Des-la">
+<img alt="Static Badge" src="https://img.shields.io/badge/Twiter-Seguir?style=social&logo=x&logoColor=black&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600&link=https%3A%2F%2Fx.com%2Flautaro_leall">
+<img alt="Static Badge" src="https://img.shields.io/badge/VSCO-FOTOS?style=social&logo=vsco&logoColor=black&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600&link=https%3A%2F%2Fvsco.co%2Flauti02%2Fgallery">
 
 ## Objetivo Personal ✔️​
 ​➡️​ Formar parte de una empresa en la que pueda obtener experiencia y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas. <br>
