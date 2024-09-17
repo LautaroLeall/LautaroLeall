@@ -3,33 +3,27 @@
 </div>
 <img src= "https://media.licdn.com/dms/image/v2/D4E16AQG_2jjRv-XTbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724442967015?e=1732147200&v=beta&t=8QX6CEQ1aCX1STW36itD6n-ukGXkawvsgrzhAoITfLs">
 
-## Sobre Mi ⭐
-Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​ <br>
+## 💫 About Me:
+Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​<br><br>Desarrollo Y Calidad De Software 💻​
 
-Desarrollo Y Calidad De Software 💻​
-## Redes 📱​
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trabajo?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/lauldp)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Menjsae?style=for-the-badge&logo=whatsapp&logoColor=white&color=grenn)](https://Wa.me/543813399463)
-[![Instagram](https://img.shields.io/badge/Instagram-Seguir?style=for-the-badge&logo=instagram&logoColor=white&color=red%20)](https://www.instagram.com/lautaro_leall)
-[![Twitter](https://img.shields.io/badge/Twitter-X?style=for-the-badge&logo=x&logoColor=white&color=black)](https://x.com/lautaro_leall)
-[![VSCO](https://img.shields.io/badge/VSCO-fotos?style=for-the-badge&logo=vsco&logoColor=white&color=black)](https://vsco.co/lauti02/gallery)
 
-## Objetivo Personal ✔️​
-​➡️​ Formar parte de una empresa en la que pueda obtener experiencia y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas. <br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lauldp)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mensajes?style=plastic&logo=whatsapp&logoColor=white&color=gren&cacheSeconds=Toma%20De%20Decisions%20)](https://Wa.me/543813399463)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=red)](https://instagram.com/https://www.instagram.com/lautaro_leall)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lautaro_leall)  [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/lautaro_leall)   [![VSCO](https://img.shields.io/badge/VSCO-Fotos?style=plastic&logo=vsco&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)](https://vsco.co/lauti02/gallery)
 
-➡️​ Que me brinde la oportunidad de alcanzar todas mis metas trazadas, y que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual.<br>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-**LautaroLeall/LautaroLeall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LautaroLeall&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
