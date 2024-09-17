@@ -1,5 +1,10 @@
 ## Hi there 👋
+## Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​ 
+## Desarrollo Y Calidad De Software 💻​
+## Objetivo Personal ✔️​
+​➡️​ Formar parte de una empresa en la que pueda obtener experiencia y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas.
 
+➡️​ Que me brinde la oportunidad de alcanzar todas mis metas trazadas, y que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual.
 <!--
 **LautaroLeall/LautaroLeall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
