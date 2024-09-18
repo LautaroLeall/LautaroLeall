@@ -29,7 +29,7 @@ Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​<
  Ayudante en local de venta (de
  Ropa-Accesorios)<br>
  
-![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
+![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD-dark%20red?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
  Rugby “2015-2022” (trabajos en
  equipo)
 
