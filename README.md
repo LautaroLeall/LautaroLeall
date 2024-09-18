@@ -25,11 +25,11 @@ Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​<
  Académico (Ventas de Macetas
  Biodegradables)<br>
  
- ![Static Badge](https://img.shields.io/badge/FAMILIAR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
+ ![FAMILIAR](https://img.shields.io/badge/FAMILIAR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
  Ayudante en local de venta (de
  Ropa-Accesorios)<br>
  
-![Static Badge](https://img.shields.io/badge/ACTIVIDAD-DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
+![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
  Rugby “2015-2022” (trabajos en
  equipo)
 
