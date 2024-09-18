@@ -26,7 +26,7 @@ Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​<
  Biodegradables)<br>
  
  ![FAMILIAR](https://img.shields.io/badge/FAMILIAR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
- Ayudante en local de venta (de
+ Ayudante en Local de Venta (de
  Ropa-Accesorios)<br>
  
 ![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD-dark%20red?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
