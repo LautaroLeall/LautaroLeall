@@ -4,8 +4,21 @@
 <img src= "https://media.licdn.com/dms/image/v2/D4E16AQG_2jjRv-XTbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724442967015?e=1732147200&v=beta&t=8QX6CEQ1aCX1STW36itD6n-ukGXkawvsgrzhAoITfLs">
 
 ## 💫 About Me:
-Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​<br><br>Desarrollo Y Calidad De Software 💻​
+Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​<br>
+Desarrollo Y Calidad De Software 💻​ <br>
+<hr>
+✅ Objetivo Personal 
 
+➡️ ⁠Mantener un equilibrio saludable entre trabajo y vida personal. <br>
+➡️ Aprender nuevas habilidades fuera de la programación (diseño, marketing). <br>
+➡️ Viajar y trabajar en diferentes entornos. <br>
+➡️ Contribuir a proyectos de impacto social. <br>
+➡️ Desarrollar habilidades de mentoría y enseñanza. <br>
+<hr>
+<br> ✅ Objetivo Profesional
+
+​➡️​ Formar parte de una empresa en la que pueda obtener experiencia y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas. <br>
+​➡️​ Que me brinde la oportunidad de alcanzar todas mis metas trazadas, y que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauldp)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white&color=gren)](https://Wa.me/543813399463)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=red)](https://www.instagram.com/lautaro_leall)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lautaro_leall)  [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/lautaro_leall)   [![VSCO](https://img.shields.io/badge/VSCO-%230077B5.svg?logo=vsco&logoColor=white&color=black)](https://vsco.co/lauti02/gallery)
@@ -49,4 +62,3 @@ Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​<
 ---
 [![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
