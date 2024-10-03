@@ -15,7 +15,7 @@ Desarrollo Y Calidad De Software 💻​ <br>
 ➡️ Contribuir a proyectos de impacto social. <br>
 ➡️ Desarrollar habilidades de mentoría y enseñanza. <br>
 <hr>
-<br> ✅ Objetivo Profesional
+✅ Objetivo Profesional
 
 ​➡️​ Formar parte de una empresa en la que pueda obtener experiencia y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas. <br>
 ​➡️​ Que me brinde la oportunidad de alcanzar todas mis metas trazadas, y que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual.
