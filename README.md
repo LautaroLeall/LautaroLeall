@@ -58,11 +58,6 @@ Desarrollo Y Calidad De Software 💻​ <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LautaroLeall&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <hr>
-[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=0)](https://visitcount.itsvg.in)
+[![VISITED](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=0)](https://visitcount.itsvg.in)
