@@ -30,9 +30,6 @@ Desarrollo Y Calidad De Software 💻​ <br>
 # 💼​ Portafolio:
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-P?style=for-the-badge&logo=codementor&logoColor=white&labelColor=Black&color=brown)](https://portafolio-lautaro-leal-del-prete.netlify.app/)
 
-
-
-
 # ✨​ Skills:
 ![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)<br>![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)<br>![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>![COMUNICAION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>![ GESTION](https://img.shields.io/badge/GESTION-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)<br>![APLICACIONES](https://img.shields.io/badge/APLICACIONES-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)![MICROSOFT](https://img.shields.io/badge/MICROSOFT-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
 
@@ -53,7 +50,19 @@ Desarrollo Y Calidad De Software 💻​ <br>
  Rugby “2015-2022” (trabajos en
  equipo)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LautaroLeall&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<hr>
+[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=0)](https://visitcount.itsvg.in)
