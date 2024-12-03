@@ -31,7 +31,21 @@ Desarrollo Y Calidad De Software 💻​ <br>
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-P?style=for-the-badge&logo=codementor&logoColor=white&labelColor=Black&color=brown)](https://portafolio-lautaro-leal-del-prete.netlify.app/)
 
 # ✨​ Skills:
-![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)<br>![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)<br>![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>![COMUNICAION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>![ GESTION](https://img.shields.io/badge/GESTION-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)<br>![APLICACIONES](https://img.shields.io/badge/APLICACIONES-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)![MICROSOFT](https://img.shields.io/badge/MICROSOFT-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
+![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
+![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
+![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)<br>
+
+![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
+![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)<br>
+
+![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>
+
+![COMUNICAION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>
+
+![ GESTION](https://img.shields.io/badge/GESTION-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)<br>
+![APLICACIONES](https://img.shields.io/badge/APLICACIONES-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
+![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
+![MICROSOFT](https://img.shields.io/badge/MICROSOFT-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
 
 # ​​🧑🏻‍💼​ Experience:
  ![PROYECTO](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
