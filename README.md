@@ -33,19 +33,19 @@ Desarrollo Y Calidad De Software 💻​ <br>
 # ✨​ Skills:
 ![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
 ![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
-![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)<br>
+![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
 
 ![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
-![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)<br>
+![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
 
-![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>
+![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)
 
-![COMUNICAION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>
+![COMUNICAION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)
 
 ![ GESTION](https://img.shields.io/badge/GESTION-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
 ![APLICACIONES](https://img.shields.io/badge/APLICACIONES-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
 ![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
-![MICROSOFT](https://img.shields.io/badge/MICROSOFT-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20) <br>
+![MICROSOFT](https://img.shields.io/badge/MICROSOFT-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
 
 ![TRABAJO](https://img.shields.io/badge/TRABAJO-EN?style=for-the-badge&logoColor=white&labelColor=white&color=white)
 ![EN](https://img.shields.io/badge/EN-EN?style=for-the-badge&logoColor=white&labelColor=white&color=white)
