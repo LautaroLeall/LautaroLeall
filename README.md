@@ -47,6 +47,10 @@ Desarrollo Y Calidad De Software 💻​ <br>
 ![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
 ![MICROSOFT](https://img.shields.io/badge/MICROSOFT-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20) <br>
 
+![TRABAJO](https://img.shields.io/badge/TRABAJO-EN?style=for-the-badge&logoColor=white&labelColor=white&color=white)
+![EN](https://img.shields.io/badge/EN-EN?style=for-the-badge&logoColor=white&labelColor=white&color=white)
+![EQUIPO](https://img.shields.io/badge/EQUIPO-EQ?style=for-the-badge&logoColor=white&labelColor=white&color=white)
+
 # ​​🧑🏻‍💼​ Experience:
  ![PROYECTO](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
  Universitario “ACTUALMENTE” (Software
