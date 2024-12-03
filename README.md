@@ -67,5 +67,10 @@ Desarrollo Y Calidad De Software 💻​ <br>
 ![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD-dark%20red?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
  Rugby “2015-2022” (trabajos en equipo)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 [![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=7)](https://visitcount.itsvg.in)
