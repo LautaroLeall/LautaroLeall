@@ -42,10 +42,10 @@ Desarrollo Y Calidad De Software 💻​ <br>
 
 ![COMUNICAION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=white&color=grey&cacheSeconds=Toma%20De%20Decisions%20)<br>
 
-![ GESTION](https://img.shields.io/badge/GESTION-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)<br>
+![ GESTION](https://img.shields.io/badge/GESTION-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
 ![APLICACIONES](https://img.shields.io/badge/APLICACIONES-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
 ![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
-![MICROSOFT](https://img.shields.io/badge/MICROSOFT-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20)
+![MICROSOFT](https://img.shields.io/badge/MICROSOFT-AA?style=for-the-badge&logoColor=white&color=white&cacheSeconds=Toma%20De%20Decisions%20) <br>
 
 # ​​🧑🏻‍💼​ Experience:
  ![PROYECTO](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
