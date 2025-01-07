@@ -4,8 +4,9 @@
 <img src= "https://media.licdn.com/dms/image/v2/D4E16AQG_2jjRv-XTbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724442967015?e=1737590400&v=beta&t=kXE0MArZnHs1PJLCpJ_s7Ly0-YkHjQgGFYEOvrnsc4g">
 
 ## 💫 About Me:
-Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓​<br>
-Desarrollo Y Calidad De Software 💻​ <br>
+👨🏻‍🎓 Estudiante en Universidad del Norte 'Santo Tomás de Aquino'​<br>
+💻 Desarrollo Y Calidad De Software ​ <br>
+🙋🏻‍♂️​ Soy una persona dinámica, organizada y responsable, con habilidades para comunicarme de manera efectiva y encontrar soluciones a problemas complejos. Me caracterizo por mi disposición para asumir retos y desempeñar mis labores con excelencia, buscando siempre oportunidades para aprender y crecer. <br>
 <hr>
 ✅ Objetivo Personal 
 
