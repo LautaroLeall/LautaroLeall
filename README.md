@@ -54,17 +54,17 @@ Desarrollo Y Calidad De Software ​💻 <br>
 
 # ​​🧑🏻‍💼​ Experience:
  ![PROYECTOS](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
- Desarrollo Web 
+ Desarrollo Web <br>
  Paginas Web sin funcionalidad<br>
  
  ![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
-  Académico 
+  Académico <br>
   Ventas de Macetas Biodegradables realizadas por nosotros "alumnos"<br>
  
  ![VENDEDOR](https://img.shields.io/badge/FAMILIAR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
-  Miluna Accesorios
-  Venta de Ropa-Accesorios
-  Atención al Cliente
+  Miluna Accesorios <br>
+  Venta de Ropa-Accesorios <br>
+  Atención al Cliente <br>
   Contabilizar Stock <br>
  
 ![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD-dark%20red?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
