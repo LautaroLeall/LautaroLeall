@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align> Hola Soy <a href="https://www.linkedin.com/in/lauldp"> Lautaro Leal Del Prete </a> 👋 </h1>
-  [![Lautaro-Leal-Del-Prete-Horizontal.png](https://i.postimg.cc/ZqbZQYDS/Lautaro-Leal-Del-Prete-Horizontal.png)](https://postimg.cc/FYB2dv4W)
 </div>
+  [![Lautaro-Leal-Del-Prete-Horizontal.png](https://i.postimg.cc/ZqbZQYDS/Lautaro-Leal-Del-Prete-Horizontal.png)](https://postimg.cc/FYB2dv4W)
 
 
 ## 💫 About Me:
