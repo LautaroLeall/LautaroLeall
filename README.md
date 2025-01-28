@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align> Hola Soy <a href="https://www.linkedin.com/in/lauldp"> Lautaro Leal Del Prete </a> 👋 </h1>
+  img...
 </div>
 
 
