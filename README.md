@@ -53,20 +53,22 @@ Desarrollo Y Calidad De Software ​💻 <br>
 ![EQUIPO](https://img.shields.io/badge/EQUIPO-EQ?style=for-the-badge&logoColor=white&labelColor=white&color=white)
 
 # ​​🧑🏻‍💼​ Experience:
- ![PROYECTO](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
- Universitario “ACTUALMENTE” (Software
- para ventas)<br>
+ ![PROYECTOS](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
+ Desarrollo Web 
+ Paginas Web sin funcionalidad<br>
  
  ![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
- Académico (Ventas de Macetas
- Biodegradables)<br>
+  Académico 
+  Ventas de Macetas Biodegradables realizadas por nosotros "alumnos"<br>
  
- ![FAMILIAR](https://img.shields.io/badge/FAMILIAR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
- Ayudante en Local de Venta (de
- Ropa-Accesorios)<br>
+ ![VENDEDOR](https://img.shields.io/badge/FAMILIAR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
+  Miluna Accesorios
+  Venta de Ropa-Accesorios
+  Atención al Cliente
+  Contabilizar Stock <br>
  
 ![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD-dark%20red?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
- Rugby “2015-2022” (trabajos en equipo)
+ Rugby “2015-2022”
 
 # 📊 GitHub Stats:
 <!--PRIMER CUADRO-->
