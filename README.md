@@ -61,7 +61,7 @@ Desarrollo Y Calidad De Software ​💻 <br>
   Académico <br>
   Ventas de Macetas Biodegradables realizadas por nosotros "alumnos"<br>
  
- ![VENDEDOR](https://img.shields.io/badge/FAMILIAR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
+ ![VENDEDOR](https://img.shields.io/badge/VENDEDOR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
   Miluna Accesorios <br>
   Venta de Ropa-Accesorios <br>
   Atención al Cliente <br>
