@@ -55,7 +55,7 @@ Desarrollo Y Calidad De Software ​💻 <br>
 
 # ​​🧑🏻‍💼​ Experience:
  ![PROYECTOS](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
- Desarrollo Web <br>
+ <b> Desarrollo Web <br>
  Paginas Web sin funcionalidad<br>
  
  ![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
