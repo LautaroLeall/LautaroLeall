@@ -59,7 +59,7 @@ Desarrollo Y Calidad De Software ​💻 <br>
  Paginas Web sin funcionalidad<br>
  
  ![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
-  <b> Académico <br>
+  <b> Académico </b> <br>
   Ventas de Macetas Biodegradables realizadas por nosotros "alumnos"<br>
  
  ![VENDEDOR](https://img.shields.io/badge/VENDEDOR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
