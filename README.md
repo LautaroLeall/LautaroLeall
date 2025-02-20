@@ -70,7 +70,7 @@ Desarrollo Y Calidad De Software ​💻 <br>
  
   ![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD-dark%20red?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)
   ![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
-  Natación Y Gimnasia
+  <b> Natación Y Gimnasia </b>
   Rugby “2015-2022”
 
 # 📊 GitHub Stats:
