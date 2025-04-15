@@ -78,7 +78,7 @@ Desarrollo Y Calidad De Software ​💻 <br>
  ![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
   <b> Académico </b> <br>
   Ventas de Macetas Biodegradables <br>
-  Realizadas por nosotros "ALUMNOS"<br>
+  Realizadas por nosotros los "ALUMNOS"<br>
  
  ![VENDEDOR](https://img.shields.io/badge/VENDEDOR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
   <b> Miluna Accesorios </b> <br>
