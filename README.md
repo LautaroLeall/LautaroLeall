@@ -45,8 +45,8 @@ Desarrollo Y Calidad De Software ​💻 <br>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) 
 
-# 💼​ Portafolio:
-[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-P?style=for-the-badge&logo=codementor&logoColor=white&labelColor=Black&color=brown)](https://portafolio-lautaro-leal-del-prete.netlify.app/)
+<!--# 💼​ Portafolio: -->
+<!--[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-P?style=for-the-badge&logo=codementor&logoColor=white&labelColor=Black&color=brown)](https://portafolio-lautaro-leal-del-prete.netlify.app/)-->
 
 # ✨​ Skills:
 ![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=white&color=black&cacheSeconds=Toma%20De%20Decisions%20)
