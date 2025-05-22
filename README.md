@@ -50,11 +50,9 @@
 
 ![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=white&color=grey)
 
-![ESPIRITU ](https://img.shields.io/badge/ESPIRITU-AA?style=for-the-badge&logoColor=white&color=black)
-![EMPRESARIAL](https://img.shields.io/badge/EMPRESARIAL-AA?style=for-the-badge&logoColor=white&color=black)
+![ESPIRITU ](https://img.shields.io/badge/ESPIRITU-AA?style=for-the-badge&logoColor=white&color=black)![EMPRESARIAL](https://img.shields.io/badge/EMPRESARIAL-AA?style=for-the-badge&logoColor=white&color=black)
 
-![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=white&color=black)
-![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=white&color=black)
+![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=white&color=black)![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=white&color=black)
 
 # ​​🧑🏻‍💼​ Experience:
  ![PROYECTOS](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
