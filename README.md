@@ -63,21 +63,21 @@
 
 ![PROYECTOS](https://img.shields.io/badge/PROYECTOS-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
 **Diseño y Desarrollo Web**  <br>
-🔹 Creación de páginas informativas sin funcionalidades dinámicas.
-<br><hr>
+🔹 Creación de páginas informativas sin funcionalidades dinámicas. <br>
+<br>
 ![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
 **Proyecto Académico**  <br>
 🔹 Comercialización de macetas biodegradables.<br>
-🔹 Responsable de producción, gestión y ventas.
-<br><hr>
+🔹 Responsable de producción, gestión y ventas. <br>
+<br>
 ![VENDEDOR](https://img.shields.io/badge/VENDEDOR-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
 **Miluna Accesorios**  <br>
 🔹 Venta de indumentaria y accesorios.<br>
-🔹 Atención al cliente y control de stock.
-<br><hr>
+🔹 Atención al cliente y control de stock. <br>
+<br>
 ![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD%20DEPORTIVA-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
 **Natación y Gimnasia**  <br>
-🔹 Práctica deportiva rugby (2015–2022).
+🔹 Práctica deportiva rugby (2015–2022). <br>
 
 # 🏆 GitHub Trophies
 
