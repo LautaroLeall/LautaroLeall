@@ -9,7 +9,7 @@
 📚 Mis repositorios reflejan mi proceso de formación como desarrollador, con proyectos centrados en el desarrollo web, sistemas de gestión y ejercicios prácticos que me permiten afianzar los fundamentos técnicos. Cada línea de código forma parte de un camino de aprendizaje constante, donde busco no solo mejorar mis habilidades, sino también entender cómo construir soluciones funcionales y bien estructuradas.
 <br>
 
-💡 Estoy abierto a feedback, colaboraciones y recomendaciones. ¡Seguimos creciendo! 
+💡 Estoy abierto a feedback, colaboraciones y recomendaciones. ¡A Seguir Creciendo! 
 <br>
 
 🚀 Busco oportunidades que me permitan seguir creciendo como desarrollador, aportar valor a equipos tecnológicos y desarrollar soluciones innovadoras.
