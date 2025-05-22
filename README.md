@@ -5,6 +5,7 @@
 <img src="https://i.ibb.co/zTN5WgQX/LLDP-Horizontal.png">
 
 ## 💫 About Me:
+
 👨🏻‍🎓 Estudiante de Desarrollo y Calidad de Software. Me estoy formando en desarrollo web y programación, actualmente aprendiendo y experimentando con proyectos personales que subo a este espacio. <br>
 
 📚 Mis repositorios reflejan mi proceso de formación como desarrollador, con proyectos centrados en el desarrollo web, sistemas de gestión y ejercicios prácticos que me permiten afianzar los fundamentos técnicos. Cada línea de código forma parte de un camino de aprendizaje constante, donde busco no solo mejorar mis habilidades, sino también entender cómo construir soluciones funcionales y bien estructuradas.
@@ -16,11 +17,13 @@
 🚀 Busco oportunidades que me permitan seguir creciendo como desarrollador, aportar valor a equipos tecnológicos y desarrollar soluciones innovadoras.
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauldp)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white&color=gren)](https://Wa.me/543813399463) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=red)](https://www.instagram.com/lautaro_leall)
 
 # 💻 Tech Stack:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
@@ -39,49 +42,45 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) 
 
 # 💼​ Portafolio:
+
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-P?style=for-the-badge&logo=codementor&logoColor=white&labelColor=Black&color=brown)](https://portafolio-lautaro-leal-del-prete.netlify.app/)
 
 # ✨ Skills:
-![TRABAJO](https://img.shields.io/badge/TRABAJO-AA?style=for-the-badge&logoColor=black&color=F4D03F)![EN](https://img.shields.io/badge/EN-AA?style=for-the-badge&logoColor=black&color=F4D03F)![EQUIPO](https://img.shields.io/badge/EQUIPO-AA?style=for-the-badge&logoColor=black&color=F4D03F)
 
-![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=black&color=F4D03F)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=black&color=F4D03F)![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=black&color=F4D03F)
+![TRABAJO](https://img.shields.io/badge/TRABAJO-AA?style=for-the-badge&logoColor=black&color=F9E79F)![EN](https://img.shields.io/badge/EN-AA?style=for-the-badge&logoColor=black&color=F9E79F)![EQUIPO](https://img.shields.io/badge/EQUIPO-AA?style=for-the-badge&logoColor=black&color=F9E79F)
 
-![COMUNICACION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=black&color=F4D03F)
+![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=black&color=F9E79F)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=black&color=F9E79F)![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=black&color=F9E79F)
 
-![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=black&color=F4D03F)
+![COMUNICACION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=black&color=F9E79F)
 
-![ESPIRITU](https://img.shields.io/badge/ESPIRITU-AA?style=for-the-badge&logoColor=black&color=F4D03F)![EMPRESARIAL](https://img.shields.io/badge/EMPRESARIAL-AA?style=for-the-badge&logoColor=black&color=F4D03F)
+![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=black&color=F9E79F)
 
-![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=black&color=F4D03F)![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=black&color=F4D03F)
+![ESPIRITU](https://img.shields.io/badge/ESPIRITU-AA?style=for-the-badge&logoColor=black&color=F9E79F)![EMPRESARIAL](https://img.shields.io/badge/EMPRESARIAL-AA?style=for-the-badge&logoColor=black&color=F9E79F)
+
+![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=black&color=F9E79F)![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=black&color=F9E79F)
 
 # 🧑🏻‍💼 Stages and Learning
-![PROYECTOS](https://img.shields.io/badge/PROYECTOS-AA?style=for-the-badge&logoColor=black&color=F4D03F) <br>
-**Diseño y Desarrollo Web**
-- Creación de páginas informativas sin funcionalidades dinámicas
+
+![PROYECTOS](https://img.shields.io/badge/PROYECTOS-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
+**Diseño y Desarrollo Web**  
+- Creación de páginas informativas sin funcionalidades dinámicas  
 ---
-![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO-AA?style=for-the-badge&logoColor=black&color=F4D03F) <br>
+![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
 **Proyecto Académico**  
 - Comercialización de Macetas Biodegradables  
 - Responsable de producción, gestión y ventas  
 ---
-![VENDEDOR](https://img.shields.io/badge/VENDEDOR-AA?style=for-the-badge&logoColor=black&color=F4D03F) <br>
+![VENDEDOR](https://img.shields.io/badge/VENDEDOR-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
 **Miluna Accesorios**  
 - Venta de indumentaria y accesorios  
 - Atención al cliente y Control de stock  
 ---
-![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD%20DEPORTIVA-AA?style=for-the-badge&logoColor=black&color=F4D03F) <br>
+![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD%20DEPORTIVA-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
 **Natación y Gimnasia**  
 - Práctica deportiva Rugby (2015–2022)
 
-# 📊 GitHub Stats:
-<!--PRIMER CUADRO-->
-![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!--SEGUNDO CUADRO-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=neon&hide_border=false)<br/>
-<!--TERCER CUADRO-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=7)](https://visitcount.itsvg.in)
