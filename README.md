@@ -41,40 +41,37 @@
 # 💼​ Portafolio:
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-P?style=for-the-badge&logo=codementor&logoColor=white&labelColor=Black&color=brown)](https://portafolio-lautaro-leal-del-prete.netlify.app/)
 
-# ✨​ Skills:
-![TRABAJO](https://img.shields.io/badge/TRABAJO-EN?style=for-the-badge&logoColor=white&labelColor=white&color=white)![EN](https://img.shields.io/badge/EN-EN?style=for-the-badge&logoColor=white&labelColor=white&color=white)![EQUIPO](https://img.shields.io/badge/EQUIPO-EQ?style=for-the-badge&logoColor=white&labelColor=white&color=white)
+# ✨ Skills:
+![TRABAJO](https://img.shields.io/badge/TRABAJO-AA?style=for-the-badge&logoColor=black&color=F4D03F)![EN](https://img.shields.io/badge/EN-AA?style=for-the-badge&logoColor=black&color=F4D03F)![EQUIPO](https://img.shields.io/badge/EQUIPO-AA?style=for-the-badge&logoColor=black&color=F4D03F)
 
-![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=white&color=white)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=white&color=white)![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=white&color=white)
+![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=black&color=F4D03F)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=black&color=F4D03F)![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=black&color=F4D03F)
 
-![COMUNICAION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=white&color=grey)
+![COMUNICACION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=black&color=F4D03F)
 
-![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=white&color=grey)
+![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=black&color=F4D03F)
 
-![ESPIRITU ](https://img.shields.io/badge/ESPIRITU-AA?style=for-the-badge&logoColor=white&color=black)![EMPRESARIAL](https://img.shields.io/badge/EMPRESARIAL-AA?style=for-the-badge&logoColor=white&color=black)
+![ESPIRITU](https://img.shields.io/badge/ESPIRITU-AA?style=for-the-badge&logoColor=black&color=F4D03F)![EMPRESARIAL](https://img.shields.io/badge/EMPRESARIAL-AA?style=for-the-badge&logoColor=black&color=F4D03F)
 
-![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=white&color=black)![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=white&color=black)
+![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=black&color=F4D03F)![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=black&color=F4D03F)
 
-# ​​🧑🏻‍💼​ Experience:
- ![PROYECTOS](https://img.shields.io/badge/PROYECTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
- <b> Front End </b> <br>
- Desarrollo Web <br>
- Paginas Web sin funcionalidad <br>
- 
- ![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
-  <b> Académico </b> <br>
-  Ventas de Macetas Biodegradables <br>
-  Realizadas por nosotros los "ALUMNOS"<br>
- 
- ![VENDEDOR](https://img.shields.io/badge/VENDEDOR%3A-dark%20red?style=for-the-badge&logoSize=amd&labelColor=dark%20&color=purple)<br>
-  <b> Miluna Accesorios </b> <br>
-  Venta de Ropa-Accesorios <br>
-  Atención al Cliente <br>
-  Contabilizar Stock <br>
- 
-  ![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD-dark%20red?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)
-  ![DEPORTIVA](https://img.shields.io/badge/DEPORTIVA%3A-%3A?style=for-the-badge&logoSize=amd&labelColor=purple%20&color=purple%20)<br>
-  <b> Natación Y Gimnasia </b> <br>
-  Rugby “2015-2022”
+# 🧑🏻‍💼 Stages and Learning
+![PROYECTOS](https://img.shields.io/badge/PROYECTOS-AA?style=for-the-badge&logoColor=black&color=F4D03F) <br>
+**Diseño y Desarrollo Web**
+- Creación de páginas informativas sin funcionalidades dinámicas
+---
+![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO-AA?style=for-the-badge&logoColor=black&color=F4D03F) <br>
+**Proyecto Académico**  
+- Comercialización de Macetas Biodegradables  
+- Responsable de producción, gestión y ventas  
+---
+![VENDEDOR](https://img.shields.io/badge/VENDEDOR-AA?style=for-the-badge&logoColor=black&color=F4D03F) <br>
+**Miluna Accesorios**  
+- Venta de indumentaria y accesorios  
+- Atención al cliente y Control de stock  
+---
+![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD%20DEPORTIVA-AA?style=for-the-badge&logoColor=black&color=F4D03F) <br>
+**Natación y Gimnasia**  
+- Práctica deportiva Rugby (2015–2022)
 
 # 📊 GitHub Stats:
 <!--PRIMER CUADRO-->
