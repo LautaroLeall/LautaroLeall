@@ -4,7 +4,7 @@
 </div>
 <img src="https://i.ibb.co/zTN5WgQX/LLDP-Horizontal.png">
 
-## 💫 About Me:
+# 💫 About Me:
 
 👨🏻‍🎓 Estudiante de Desarrollo y Calidad de Software. Me estoy formando en desarrollo web y programación, actualmente aprendiendo y experimentando con proyectos personales que subo a este espacio. <br>
 
@@ -16,7 +16,7 @@
 
 🚀 Busco oportunidades que me permitan seguir creciendo como desarrollador, aportar valor a equipos tecnológicos y desarrollar soluciones innovadoras.
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauldp)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white&color=gren)](https://Wa.me/543813399463) 
@@ -62,24 +62,24 @@
 # 🧑🏻‍💼 Stages and Learning
 
 ![PROYECTOS](https://img.shields.io/badge/PROYECTOS-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
-**Diseño y Desarrollo Web**  
-- Creación de páginas informativas sin funcionalidades dinámicas  
----
+**Diseño y Desarrollo Web**  <br>
+🔹 Creación de páginas informativas sin funcionalidades dinámicas.
+<br><hr>
 ![EMPRENDIMIENTO](https://img.shields.io/badge/EMPRENDIMIENTO-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
-**Proyecto Académico**  
-- Comercialización de Macetas Biodegradables  
-- Responsable de producción, gestión y ventas  
----
+**Proyecto Académico**  <br>
+🔹 Comercialización de macetas biodegradables.<br>
+🔹 Responsable de producción, gestión y ventas.
+<br><hr>
 ![VENDEDOR](https://img.shields.io/badge/VENDEDOR-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
-**Miluna Accesorios**  
-- Venta de indumentaria y accesorios  
-- Atención al cliente y Control de stock  
----
+**Miluna Accesorios**  <br>
+🔹 Venta de indumentaria y accesorios.<br>
+🔹 Atención al cliente y control de stock.
+<br><hr>
 ![ACTIVIDAD](https://img.shields.io/badge/ACTIVIDAD%20DEPORTIVA-AA?style=for-the-badge&logoColor=black&color=AED6F1) <br>
-**Natación y Gimnasia**  
-- Práctica deportiva Rugby (2015–2022)
+**Natación y Gimnasia**  <br>
+🔹 Práctica deportiva rugby (2015–2022).
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
