@@ -6,7 +6,7 @@
 ## 💫 About Me:
 👨🏻‍🎓 Estudiante de Desarrollo y Calidad de Software. Me estoy formando en desarrollo web y programación, actualmente aprendiendo y experimentando con proyectos personales que subo a este espacio. <br>
 
-📚 En mis repositorios encontrarás prácticas de desarrollo web, ya que estoy enfocado en fortalecer mis conocimientos base. Cada commit representa un paso en mi camino como desarrollador. 
+📚 Mis repositorios reflejan mi proceso de formación como desarrollador, con proyectos centrados en el desarrollo web, sistemas de gestión y ejercicios prácticos que me permiten afianzar los fundamentos técnicos. Cada línea de código forma parte de un camino de aprendizaje constante, donde busco no solo mejorar mis habilidades, sino también entender cómo construir soluciones funcionales y bien estructuradas.
 <br>
 
 💡 Estoy abierto a feedback, colaboraciones y recomendaciones. ¡Seguimos creciendo! 
