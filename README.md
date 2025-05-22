@@ -4,23 +4,15 @@
 <img src="https://i.ibb.co/zTN5WgQX/LLDP-Horizontal.png">
 
 ## 💫 About Me:
-​Estudiante en Universidad del Norte 'Santo Tomás de Aquino' 👨🏻‍🎓<br>
-Desarrollo Y Calidad De Software ​💻 <br>
-<hr>
-🙋🏻‍♂️​ Soy una persona dinámica, organizada y responsable, con habilidades para comunicarme de manera efectiva y encontrar soluciones a problemas complejos. Me caracterizo por mi disposición para asumir retos y desempeñar mis labores con excelencia, buscando siempre oportunidades para aprender y crecer. <br>
-<hr>
-✅ Objetivo Personal 
+👨🏻‍🎓 Estudiante de Tecnicatura en Desarrollo y Calidad de Software. Me estoy formando en desarrollo web y programación, actualmente aprendiendo y experimentando con proyectos personales que subo a este espacio. <br>
 
-➡️ ⁠Mantener un equilibrio saludable entre trabajo y vida personal. <br>
-➡️ Aprender nuevas habilidades fuera de la programación (diseño, marketing). <br>
-➡️ Viajar y trabajar en diferentes entornos. <br>
-➡️ Contribuir a proyectos de impacto social. <br>
-➡️ Desarrollar habilidades de mentoría y enseñanza. <br>
-<hr>
-✅ Objetivo Profesional
+📚 En mis repositorios encontrarás prácticas de desarrollo web, ya que estoy enfocado en fortalecer mis conocimientos base. Cada commit representa un paso en mi camino como desarrollador. 
+<br>
 
-​➡️​ Formar parte de una empresa en la que pueda obtener experiencia y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas. <br>
-​➡️​ Que me brinde la oportunidad de alcanzar todas mis metas trazadas, y que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual.
+💡 Estoy abierto a feedback, colaboraciones y recomendaciones. ¡Seguimos creciendo! 
+<br>
+
+🚀 Busco oportunidades que me permitan seguir creciendo como desarrollador, aportar valor a equipos tecnológicos y desarrollar soluciones innovadoras.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauldp)
