@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/zTN5WgQX/LLDP-Horizontal.png">
 
 ## 💫 About Me:
-👨🏻‍🎓 Estudiante de Tecnicatura en Desarrollo y Calidad de Software. Me estoy formando en desarrollo web y programación, actualmente aprendiendo y experimentando con proyectos personales que subo a este espacio. <br>
+👨🏻‍🎓 Estudiante de Desarrollo y Calidad de Software. Me estoy formando en desarrollo web y programación, actualmente aprendiendo y experimentando con proyectos personales que subo a este espacio. <br>
 
 📚 En mis repositorios encontrarás prácticas de desarrollo web, ya que estoy enfocado en fortalecer mis conocimientos base. Cada commit representa un paso en mi camino como desarrollador. 
 <br>
