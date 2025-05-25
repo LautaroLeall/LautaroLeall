@@ -71,12 +71,14 @@
 
 # ✨ Skills:
 
+# ✨ Skills:
+
 ![🤝 Trabajo en equipo](https://img.shields.io/badge/🤝%20TRABAJO%20EN%20EQUIPO-0078D7?style=for-the-badge&logo=users&logoColor=white)
 ![🎯 Toma de decisiones](https://img.shields.io/badge/🎯%20TOMA%20DE%20DECISIONES-E67E22?style=for-the-badge&logo=decision&logoColor=white)
 ![🗣️ Comunicación](https://img.shields.io/badge/🗣️%20COMUNICACIÓN-1ABC9C?style=for-the-badge&logo=comment&logoColor=white)
 ![👑 Liderazgo](https://img.shields.io/badge/👑%20LIDERAZGO-8E44AD?style=for-the-badge&logo=crown&logoColor=white)
-![🚀 Espíritu empresarial](https://img.shields.io/badge/🚀%20ESPÍRITU%20EMPRESARIAL-E67E22?style=for-the-badge&logo=rocket&logoColor=white)
-![🌱 Joven emprendedor](https://img.shields.io/badge/🌱%20JOVEN%20EMPRENDEDOR-E74C3C?style=for-the-badge&logo=rocket&logoColor=white)
+![🚀 ESPÍRITU EMPRESARIAL](https://img.shields.io/badge/🚀%20ESPÍRITU%20EMPRESARIAL-E67E22?style=for-the-badge)
+![🌱 JOVEN EMPRENDEDOR](https://img.shields.io/badge/🌱%20JOVEN%20EMPRENDEDOR-E74C3C?style=for-the-badge)
 
 # 🧑🏻‍💼 Stages and Learning
 
