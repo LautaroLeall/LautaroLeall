@@ -1,21 +1,3 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LautaroLeall&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 <div align="center">
   <h1 align> Hola Soy <a href="https://www.linkedin.com/in/lauldp"> Lautaro Leal Del Prete </a>👋 </h1>
    <!-- <img src="Hey.gif" width="45" height="35" alt="Hey Icon"/> GIF CON MOVIMIENTO --> 
@@ -106,8 +88,18 @@
 **Natación y Gimnasia**  <br>
 🔹 Práctica deportiva rugby (2015–2022). <br>
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LautaroLeall&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=0)](https://visitcount.itsvg.in)
+
+Proudly created with GPRM ( https://gprm.itsvg.in )
