@@ -73,7 +73,7 @@
 
 # ✨ Skills:
 
-![🤝 Trabajo en equipo](https://img.shields.io/badge/🤝%20TRABAJO%20EN%20EQUIPO-0078D7?style=for-the-badge&logo=users&logoColor=white)
+![🤝 Trabajo en equipo](https://img.shields.io/badge/🤝%20TRABAJO%20EN%20EQUIPO-0052CC?style=for-the-badge&logo=users&logoColor=white)
 ![🎯 Toma de decisiones](https://img.shields.io/badge/🎯%20TOMA%20DE%20DECISIONES-E67E22?style=for-the-badge&logo=decision&logoColor=white)
 ![🗣️ Comunicación](https://img.shields.io/badge/🗣️%20COMUNICACIÓN-1ABC9C?style=for-the-badge&logo=comment&logoColor=white)
 ![👑 Liderazgo](https://img.shields.io/badge/👑%20LIDERAZGO-8E44AD?style=for-the-badge&logo=crown&logoColor=white)
