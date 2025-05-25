@@ -71,17 +71,12 @@
 
 # ✨ Skills:
 
-![TRABAJO](https://img.shields.io/badge/TRABAJO-AA?style=for-the-badge&logoColor=black&color=F9E79F)![EN](https://img.shields.io/badge/EN-AA?style=for-the-badge&logoColor=black&color=F9E79F)![EQUIPO](https://img.shields.io/badge/EQUIPO-AA?style=for-the-badge&logoColor=black&color=F9E79F)
-
-![TOMA](https://img.shields.io/badge/TOMA-AA?style=for-the-badge&logoColor=black&color=F9E79F)![DE](https://img.shields.io/badge/DE-AA?style=for-the-badge&logoColor=black&color=F9E79F)![DECISIONES](https://img.shields.io/badge/DECISIONES-AA?style=for-the-badge&logoColor=black&color=F9E79F)
-
-![COMUNICACION](https://img.shields.io/badge/COMUNICACION-AA?style=for-the-badge&logoColor=black&color=F9E79F)
-
-![LIDERAZGO](https://img.shields.io/badge/LIDERAZGO-AA?style=for-the-badge&logoColor=black&color=F9E79F)
-
-![ESPIRITU](https://img.shields.io/badge/ESPIRITU-AA?style=for-the-badge&logoColor=black&color=F9E79F)![EMPRESARIAL](https://img.shields.io/badge/EMPRESARIAL-AA?style=for-the-badge&logoColor=black&color=F9E79F)
-
-![JOVEN](https://img.shields.io/badge/JOVEN-AA?style=for-the-badge&logoColor=black&color=F9E79F)![EMPRENDEDOR](https://img.shields.io/badge/EMPRENDEDOR-AA?style=for-the-badge&logoColor=black&color=F9E79F)
+![🤝 Trabajo en equipo](https://img.shields.io/badge/🤝%20TRABAJO%20EN%20EQUIPO-0078D7?style=for-the-badge&logo=users&logoColor=white)
+![🎯 Toma de decisiones](https://img.shields.io/badge/🎯%20TOMA%20DE%20DECISIONES-E67E22?style=for-the-badge&logo=decision&logoColor=white)
+![🗣️ Comunicación](https://img.shields.io/badge/🗣️%20COMUNICACIÓN-1ABC9C?style=for-the-badge&logo=comment&logoColor=white)
+![👑 Liderazgo](https://img.shields.io/badge/👑%20LIDERAZGO-8E44AD?style=for-the-badge&logo=crown&logoColor=white)
+![🚀 Espíritu empresarial](https://img.shields.io/badge/🚀%20ESPÍRITU%20EMPRESARIAL-E67E22?style=for-the-badge&logo=rocket&logoColor=white)
+![🌱 Joven emprendedor](https://img.shields.io/badge/🌱%20JOVEN%20EMPRENDEDOR-E74C3C?style=for-the-badge&logo=rocket&logoColor=white)
 
 # 🧑🏻‍💼 Stages and Learning
 
