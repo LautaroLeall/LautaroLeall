@@ -65,10 +65,10 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+<!--
 # 💼​ Portafolio:
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-P?style=for-the-badge&logo=codementor&logoColor=white&labelColor=Black&color=brown)](https://portafolio-lautaro-leal-del-prete.netlify.app/)
-
+-->
 
 # ✨ Skills:
 ![🤝 Trabajo en equipo](https://img.shields.io/badge/🤝%20TRABAJO%20EN%20EQUIPO-0052CC?style=for-the-badge&logo=users&logoColor=white)
