@@ -9,7 +9,7 @@
 🎓 Estudiante de **Desarrollo y Calidad de Software** en la *Universidad del Norte Santo Tomás de Aquino*.
 <br>
 
-📌 En formación continua en **desarrollo web y programación**. Trabajo en proyectos personales que subo a este espacio, donde experimento, aprendo y crezco como desarrollador.
+📌 En formación continua en **desarrollo web, programación, la resolución de problemas y el trabajo en equipo**. Trabajo en proyectos personales que subo a este espacio, donde experimento, aprendo y crezco como desarrollador.
 <br>
 
 💬 Me motiva especialmente el trabajo en equipo. Tengo experiencia aplicando *metodologías ágiles* como **SCRUM**, lo que me permitió desarrollar habilidades en organización, comunicación y colaboración efectiva dentro de proyectos grupales.
