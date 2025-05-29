@@ -6,7 +6,14 @@
 
 
 # 💫 About Me:
-👨🏻‍🎓 Estudiante de Desarrollo y Calidad de Software. Me estoy formando en desarrollo web y programación, actualmente aprendiendo y experimentando con proyectos personales que subo a este espacio. <br>
+🎓 Estudiante de **Desarrollo y Calidad de Software** en la *Universidad del Norte Santo Tomás de Aquino*.
+<br>
+
+📌 En formación continua en desarrollo web y programación. Trabajo en proyectos personales que subo a este espacio, donde experimento, aprendo y crezco como desarrollador.
+<br>
+
+💬 Me motiva especialmente el trabajo en equipo. Tengo experiencia aplicando metodologías ágiles como SCRUM, lo que me permitió desarrollar habilidades en organización, comunicación y colaboración efectiva dentro de proyectos grupales.
+<br>
 
 📚 Mis repositorios reflejan mi proceso de formación como desarrollador, con proyectos centrados en el desarrollo web, sistemas de gestión y ejercicios prácticos que me permiten afianzar los fundamentos técnicos. Cada línea de código forma parte de un camino de aprendizaje constante, donde busco no solo mejorar mis habilidades, sino también entender cómo construir soluciones funcionales y bien estructuradas.
 <br>
@@ -14,7 +21,10 @@
 🚀 Busco oportunidades que me permitan seguir creciendo como desarrollador, aportar valor a equipos tecnológicos y desarrollar soluciones innovadoras.
 <br>
 
-💡 Estoy abierto a feedback, colaboraciones y recomendaciones. ¡A Seguir Creciendo! 
+📫 Si querés charlar, colaborar o tenés feedback, ¡Bienvenido sea! Estoy abierto a todo lo que me ayude a seguir creciendo.
+<br>
+
+💡 ¡Vamos por más!
 
 
 # 🌐 Socials:
