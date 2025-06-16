@@ -15,7 +15,7 @@
 💬 Me motiva especialmente el trabajo en equipo. Tengo experiencia aplicando *metodologías ágiles* como **SCRUM**, lo que me permitió desarrollar habilidades en organización, comunicación y colaboración efectiva dentro de proyectos grupales.
 <br>
 
-📚 *Mis repositorios reflejan mi proceso* de formación como desarrollador. Cada línea de código forma parte de un camino de aprendizaje constante, donde busco no solo mejorar mis habilidades, sino también entender cómo construir soluciones funcionales y bien estructuradas.
+📚 *Mis repositorios* reflejan mi proceso de formación como **desarrollador**. Cada línea de código forma parte de un camino de aprendizaje constante, donde busco no solo mejorar mis habilidades, sino también entender cómo construir soluciones funcionales y bien estructuradas.
 <br>
 
 🚀 **Busco oportunidades que me permitan seguir creciendo como desarrollador, aportar valor a equipos tecnológicos y desarrollar soluciones innovadoras.**
