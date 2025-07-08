@@ -2,7 +2,7 @@
   <h1 align> Hola Soy <a href="https://www.linkedin.com/in/lauldp"> Lautaro Leal Del Prete </a>👋 </h1>
    <!-- <img src="Hey.gif" width="45" height="35" alt="Hey Icon"/> GIF CON MOVIMIENTO --> 
 </div>
-<img src="https://i.ibb.co/zTN5WgQX/LLDP-Horizontal.png">
+<img src="./Lautaro Leal Del Prete Horizontal.png">
 
 
 # 💫 About Me:
