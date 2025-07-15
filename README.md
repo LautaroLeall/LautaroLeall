@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align> Hola Soy <a href="https://www.linkedin.com/in/lauldp"> Lautaro Leal Del Prete </a>👋 </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=03FCE8&center=true&vCenter=true&width=435&lines=Desarrollador+en+formación;Amante+del+trabajo+en+equipo;Fan+de+SCRUM+💡;Siempre+aprendiendo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=03FCE8&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Construyendo+proyectos+con+actitud+y+aprendizaje+constante;" alt="Typing SVG" />
 </div>
 <img src="./Lautaro Leal Del Prete Horizontal.png">
 
