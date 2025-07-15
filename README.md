@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align> Hola Soy <a href="https://www.linkedin.com/in/lauldp"> Lautaro Leal Del Prete </a>👋 </h1>
-   <!-- <img src="Hey.gif" width="45" height="35" alt="Hey Icon"/> GIF CON MOVIMIENTO --> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=03FCE8&center=true&vCenter=true&width=435&lines=Desarrollador+en+formación;Amante+del+trabajo+en+equipo;Fan+de+SCRUM+💡;Siempre+aprendiendo+🚀" alt="Typing SVG" />
 </div>
 <img src="./Lautaro Leal Del Prete Horizontal.png">
 
@@ -28,9 +28,17 @@
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauldp)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/543813399463)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lautaro_leall)
+<div align="left">
+  <a href="https://www.linkedin.com/in/lauldp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/543813399463" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lautaro_leall" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
 
 # 💻 Tech Stack
@@ -75,10 +83,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<!--
-# 💼​ Portafolio:
-[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-P?style=for-the-badge&logo=codementor&logoColor=white&labelColor=Black&color=brown)](https://portafolio-lautaro-leal-del-prete.netlify.app/)
--->
 
 # ✨ Skills:
 ![🤝 Trabajo en equipo](https://img.shields.io/badge/🤝%20TRABAJO%20EN%20EQUIPO-0052CC?style=for-the-badge&logo=users&logoColor=white)
@@ -126,3 +130,4 @@
 [![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
