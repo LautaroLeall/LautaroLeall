@@ -2,7 +2,7 @@
   <h1>Hola, soy <a href="https://www.linkedin.com/in/lauldp">Lautaro Leal Del Prete</a> 👨‍💻</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=03FCE8&center=true&vCenter=true&width=450&lines=Desarrollador+Full+Stack;Siempre+Aprendiendo+y+Creando!" alt="Typing SVG" />
   <br>
-  <img src="./Lautaro Leal Del Prete Horizontal.png" width="90%" />
+  <img src="./Lautaro Leal Del Prete Horizontal.png" width="100%" />
 </div>
 
 ---
@@ -63,17 +63,17 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=tokyonight&hide_border=false&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=tokyonight&hide_border=false&show_icons=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=tokyonight&hide_border=false" width="50%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=compact&theme=tokyonight&hide_border=false" width="50%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&row=1&margin-w=0" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&row=1&margin-w=0" width="100%" />
 </div>
 
 ---
