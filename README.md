@@ -7,7 +7,7 @@
 
 ---
 
-# 🚀 Sobre mí
+# 🚀 About Me
 
 🎓 Estudiante de Desarrollo y Calidad de Software en la UNSTA. <br>
 👨‍💻 Apasionado por el desarrollo web, el clean code y el trabajo en equipo. <br>
@@ -51,7 +51,7 @@
 
 ---
 
-# 🌐 Redes & Contacto
+# 🌐 Network & Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/lauldp)
 &nbsp;
