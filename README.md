@@ -77,8 +77,3 @@
   </a>
 </div>
 
----
-
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LautaroLeall&label=Vistas+al+perfil&color=0e75b6&style=flat" alt="views"/>
-</div> -->
