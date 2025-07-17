@@ -65,7 +65,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
@@ -76,7 +76,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 
 <div align="center">
   <h3>¿Charlamos? </h3>
