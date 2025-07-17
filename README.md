@@ -63,17 +63,17 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=tokyonight&hide_border=false&show_icons=true" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=tokyonight&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=tokyonight&hide_border=false&show_icons=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=tokyonight&hide_border=false" width="49%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=compact&theme=tokyonight&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=compact&theme=tokyonight&hide_border=false" width="49%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&row=1&margin-w=0" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&row=1&margin-w=0" width="95%" />
 </div>
 
 ---
