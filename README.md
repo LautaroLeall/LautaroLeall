@@ -2,7 +2,7 @@
   <h1>Hola, soy <a href="https://www.linkedin.com/in/lauldp">Lautaro Leal Del Prete</a> 👨‍💻</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=03FCE8&center=true&vCenter=true&width=450&lines=Desarrollador+Full+Stack;Siempre+Aprendiendo+y+Creando!" alt="Typing SVG" />
   <br>
-  <img src="./Lautaro Leal Del Prete Horizontal.png" width="80%" />
+  <img src="./Lautaro Leal Del Prete Horizontal.png" width="90%" />
 </div>
 
 ---
@@ -19,27 +19,27 @@
 # 💼 Tech Stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="33" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" title="C" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="33" title="Bootstrap" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="33" title="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" title="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React" />
   <img src="https://vitejs.dev/logo.svg" height="35" title="Vite" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" title="Node.js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="33" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="33" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="33" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="33" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="33" title="NPM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" title="NPM" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="33" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma" />
 </p>
 
 ---
@@ -56,8 +56,8 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=tokyonight&hide_border=false&show_icons=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=tokyonight&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=tokyonight&hide_border=false&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=tokyonight&hide_border=false" width="48%" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
@@ -66,7 +66,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&row=1&margin-w=0" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LautaroLeall&theme=tokyonight&row=1&margin-w=0" width="90%" />
 </div>
 
 ---
