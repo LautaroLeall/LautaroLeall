@@ -67,7 +67,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=tokyonight&hide_border=false" width="49%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=compact&theme=tokyonight&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
 </div>
 
 ---
