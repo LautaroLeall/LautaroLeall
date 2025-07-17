@@ -53,13 +53,13 @@
 
 # 🌐 Redes & Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=&labelColor=004182)](https://www.linkedin.com/in/lauldp)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/lauldp)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=&labelColor=B4004E)](https://www.instagram.com/lautaro_leall)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/543813399463)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=&labelColor=128C7E)](https://wa.me/543813399463)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=B4004E)](https://www.instagram.com/lautaro_leall)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=&labelColor=BB001B)](mailto:lautaro.leall@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B)](mailto:lautaro.leall@gmail.com)
 
 ---
 
