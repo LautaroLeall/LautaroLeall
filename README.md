@@ -14,6 +14,10 @@
 🔄 Experiencia en proyectos colaborativos aplicando SCRUM y metodologías ágiles. <br>
 🚀 En constante aprendizaje y construcción de soluciones que suman.
 
+<a href="https://portafolio-lldp.vercel.app/">
+  <img src="PORTAFOLIO--LLDP-black.svg" alt="Mi Portafolio" width="200" />
+</a>
+
 ---
 
 # 💼 Tech Stack
@@ -66,6 +70,7 @@
 ---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -81,4 +86,3 @@
     <img src="https://img.shields.io/badge/%20Escribime%20un%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
