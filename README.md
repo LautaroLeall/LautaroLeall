@@ -14,7 +14,7 @@
 🔄 Experiencia en proyectos colaborativos aplicando SCRUM y metodologías ágiles. <br>
 🚀 En constante aprendizaje y construcción de soluciones que suman.
 
-<a href="https://portafolio-lldp.vercel.app/">
+<a href="https://portafolio-lldp.vercel.app/" target="_blank">
   <img src="PORTAFOLIO--LLDP-black.svg" alt="Mi Portafolio" width="200" />
 </a>
 
