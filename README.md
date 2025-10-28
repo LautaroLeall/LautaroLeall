@@ -1,22 +1,24 @@
 <div align="center">
-  <h1>Hola, soy <a href="https://www.linkedin.com/in/lauldp">Lautaro Leal Del Prete</a> 👨‍💻</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=03FCE8&center=true&vCenter=true&width=450&lines=Desarrollador+Full+Stack;Siempre+Aprendiendo+y+Creando!" alt="Typing SVG" />
+  <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/lauldp">Lautaro Leal Del Prete</a> 👨‍💻</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=03FCE8&center=true&vCenter=true&width=450&lines=Developer+Full+Stack;Always+Learning+and+Creating!" alt="Typing SVG" />
   <br>
-  <img src="./Lautaro Leal Del Prete Horizontal.png" width="100%" />
+  <img src="./LLDP-Horizontal.png" width="100%" />
 </div>
 
 ---
 
 # 🚀 About Me
 
-🎓 Estudiante de Desarrollo y Calidad de Software en la UNSTA. <br>
-👨‍💻 Apasionado por el desarrollo web, el clean code y el trabajo en equipo. <br>
-🔄 Experiencia en proyectos colaborativos aplicando SCRUM y metodologías ágiles. <br>
-🚀 En constante aprendizaje y construcción de soluciones que suman.
+🎓 Software Development and Quality student at UNSTA. <br>
+👨‍💻 Passionate about web development, clean code, and teamwork. <br>
+🔄 Experience in collaborative projects applying SCRUM and agile methodologies. <br>
+🚀 Constantly learning and building solutions that add value.
 
 <a href="https://portafolio-lldp.vercel.app/" target="_blank">
-  <img src="PORTAFOLIO--LLDP-black.svg" alt="Mi Portafolio" width="200" />
+  <img src="PORTAFOLIO-LLDP.svg" alt="Mi Portafolio" width="200" />
 </a>
+
+<!-- [🌐 Portafolio](https://portafolio-lldp.vercel.app/) -->
 
 ---
 
@@ -36,16 +38,14 @@
   <img src="https://vitejs.dev/logo.svg" height="35" title="Vite" />
 
   <!-- Backend y Lenguajes -->
-  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET" />
-  -->
+ 
   <!-- Bases de Datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL" />
-  <!--
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB" />
-  -->
+ 
   <!-- Herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub" />
@@ -80,8 +80,8 @@
 ---
 
 <div align="center">
-  <h3>¿Charlamos? </h3>
-  <p>Estoy abierto a colaborar, aprender y construir soluciones que impacten.</p>
+<h3>Shall we chat?</h3>
+<p>I'm open to collaborating, learning, and building impactful solutions.</p>
   <a href="mailto:lautaro.leall@gmail.com">
     <img src="https://img.shields.io/badge/%20Escribime%20un%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
