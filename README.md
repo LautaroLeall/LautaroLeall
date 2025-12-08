@@ -9,6 +9,8 @@
 
 # 🚀 About Me
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LautaroLeall&theme=codeSTACKr)
+
 🎓 Software Development and Quality student at UNSTA. <br>
 👨‍💻 Passionate about web development, clean code, and teamwork. <br>
 🔄 Experience in collaborative projects applying SCRUM and agile methodologies. <br>
@@ -80,10 +82,8 @@
 ---
 
 # 📦 Languages Overview
-<div align="center">
-  <!-- Lenguajes procesados automáticamente por GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=donut&theme=codeSTACKr&hide_border=true&size_weight=0.5&count_weight=0.5" height="260" />
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LautaroLeall&theme=codeSTACKr)
 
 ---
 
