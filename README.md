@@ -79,6 +79,14 @@
 
 ---
 
+# 📦 Languages Overview
+<div align="center">
+  <!-- Lenguajes procesados automáticamente por GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&layout=donut&theme=codeSTACKr&hide_border=true&size_weight=0.5&count_weight=0.5" height="260" />
+</div>
+
+---
+
 <div align="center">
 <h3>Shall we chat?</h3>
 <p>I'm open to collaborating, learning, and building impactful solutions.</p>
