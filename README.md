@@ -48,7 +48,7 @@
   <tbody>
     <tr>
       <td><strong>Frontend</strong></td>
-      <td>
+      <td display="flex">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>&nbsp;
@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
-      <td>
+      <td display="flex">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#"/>&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET"/>&nbsp;
@@ -69,14 +69,14 @@
     </tr>
     <tr>
       <td><strong>Bases de Datos</strong></td>
-      <td>
+      <td display="flex">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB"/>
       </td>
     </tr>
     <tr>
       <td><strong>Herramientas</strong></td>
-      <td>
+      <td display="flex">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" title="NPM"/>
@@ -84,7 +84,7 @@
     </tr>
     <tr>
       <td><strong>Diseño / UI</strong></td>
-      <td>
+      <td display="flex">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma"/>
       </td>
     </tr>
