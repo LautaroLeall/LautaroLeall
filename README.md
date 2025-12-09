@@ -9,11 +9,7 @@
 
 # 🚀 About Me
 
-<div align="center">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LautaroLeall&theme=nord_dark)
-
-</div>
 
 🎓 Software Development and Quality student at UNSTA. <br>
 👨‍💻 Passionate about web development, clean code, and teamwork. <br>
@@ -30,8 +26,6 @@
 
 # 🌐 Network & Contact
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/lauldp)
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/543813399463)
@@ -40,78 +34,72 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B)](mailto:lautaro.leall@gmail.com)
 
-</div>
-
 ---
 
 # 💼 Tech Stack
 
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th style="background-color:#8CB4D8; color:#2D3643">Categoría</th>
-      <th style="background-color:#8CB4D8; color:#2D3643">Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React"/>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" title="TailwindCSS"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap"/>
-        <img src="https://vitejs.dev/logo.svg" height="35" title="Vite"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35" title="C"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Bases de Datos</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Herramientas</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" title="NPM"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Diseño / UI</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex; flex-direction: column; width: 100%">
+  <table>
+    <thead>
+      <tr>
+        <th style="background-color:#8CB4D8; color:#2D3643">Categoría</th>
+        <th style="background-color:#8CB4D8; color:#2D3643">Tecnologías</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Frontend</strong></td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React"/>
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" title="TailwindCSS"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap"/>
+          <img src="https://vitejs.dev/logo.svg" height="35" title="Vite"/>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Backend</strong></td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35" title="C"/>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Bases de Datos</strong></td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB"/>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Herramientas</strong></td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" title="NPM"/>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Diseño / UI</strong></td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
 
 # 📊 GitHub Stats:
 
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -119,20 +107,16 @@
 
 # 📦 Languages Overview
 
-<div align="center">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LautaroLeall&theme=nord_dark)
-
-</div>
 
 ---
 
 <div align="center">
-<h3>Shall we chat?</h3>
-<p>I'm open to collaborating, learning, and building impactful solutions.</p>
-  <a href="mailto:lautaro.leall@gmail.com">
-    <img src="https://img.shields.io/badge/%20Escribime%20un%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <h3>Shall we chat?</h3>
+  <p>I'm open to collaborating, learning, and building impactful solutions.</p>
+    <a href="mailto:lautaro.leall@gmail.com">
+      <img src="https://img.shields.io/badge/%20Escribime%20un%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </div>
 
 ---
