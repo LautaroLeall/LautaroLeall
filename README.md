@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/lauldp" style="color:#FF8C00;">Lautaro Leal Del Prete</a> 👨‍💻</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF8C00&center=true&vCenter=true&width=450&lines=Developer+Full+Stack;Always+Learning+and+Creating!" alt="Typing SVG" />
+  <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/lauldp" style="color:#8CB4D8;">Lautaro Leal Del Prete</a> 👨‍💻</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=8CB4D8&center=true&vCenter=true&width=450&lines=Developer+Full+Stack;Always+Learning+and+Creating!" alt="Typing SVG" />
   <br>
   <img src="LLDP_GitHub.jpg" width="100%" alt="Lautaro Leal Del Prete" />
 </div>
@@ -9,7 +9,7 @@
 
 # 🚀 About Me
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LautaroLeall&theme=vue-dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LautaroLeall&theme=nord_dark)
 
 🎓 Software Development and Quality student at UNSTA. <br>
 👨‍💻 Passionate about web development, clean code, and teamwork. <br>
@@ -72,12 +72,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -85,7 +82,7 @@
 
 # 📦 Languages Overview
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LautaroLeall&theme=vue-dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LautaroLeall&theme=nord_dark)
 
 ---
 
@@ -96,3 +93,7 @@
     <img src="https://img.shields.io/badge/%20Escribime%20un%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=0&color=0)](https://visitcount.itsvg.in)
