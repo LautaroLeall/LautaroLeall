@@ -26,7 +26,7 @@
 
 # 🌐 Network & Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/lauldp)
+[![LinkedIn](https://img.shields.io/badge/-Linked&labelColor=004182)](https://www.linkedin.com/in/lauldp)
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/543813399463)
 &nbsp;
@@ -38,14 +38,14 @@
 
 # 💼 Stack Tech
 
-<div align="center">
+<div align="center" display="flex" flex-wrap="wrap" gap="10px">
 
 | Categoría | Tecnologías |
 | --- | --- |
-| **Frontend** | <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/> <img src="https://vitejs.dev/logo.svg" height="35"/> </div> |
-| **Backend** | <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35"/> </div> |
-| **Bases de Datos** | <div style="display: flex; gap: 10px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/> </div> |
-| **Herramientas** | <div style="display: flex; gap: 10px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35"/> </div> |
+| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/> <img src="https://vitejs.dev/logo.svg" height="35"/>|
+| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35"/> |
+| **Bases de Datos** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/> |
+| **Herramientas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35"/> |
 | **Diseño / UI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/> |
 
 </div>
