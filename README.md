@@ -39,7 +39,7 @@
 # 💼 Tech Stack
 
 <details>
-  <summary>🚀 <strong>### Frontend</strong></summary>
+  <summary><strong>🚀 FRONTEND</strong></summary>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary>🛠️ <strong>### Backend</strong></summary>
+  <summary><strong>🛠️ BACKEND</strong></summary>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
@@ -60,14 +60,14 @@
 </details>
 
 <details>
-  <summary>🗄️ <strong>### Bases de Datos</strong></summary>
+  <summary><strong>🗄️ BASES DE DATOS</strong></summary>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
 </details>
 
 <details>
-  <summary>🧰 <strong>### Herramientas</strong></summary>
+  <summary><strong>🧰 HERRAMIENTAS</strong></summary>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-  <summary>🎨 <strong>### Diseño / UI</strong></summary>
+  <summary><strong>🎨 DISEÑO / UI</strong></summary>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
 </details>
