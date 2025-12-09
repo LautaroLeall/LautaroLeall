@@ -24,50 +24,73 @@
 
 ---
 
-# 💼 Tech Stack
- 
-<p>
-  <!-- Tecnologías base -->
+# 🌐 Network & Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/lauldp)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/543813399463)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=B4004E)](https://www.instagram.com/lautaro_leall)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B)](mailto:lautaro.leall@gmail.com)
+
+---
+
+<!-- # 💼 Tech Stack -->
+
+<!-- <p> -->
+
+  <!-- 
+  Tecnologías base 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35" title="C" />
+  -->
 
-  <!-- Frontend -->
+  <!-- 
+  Frontend 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" title="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React" />
   <img src="https://vitejs.dev/logo.svg" height="35" title="Vite" />
+  -->
 
-  <!-- Backend y Lenguajes -->
+  <!-- 
+  Backend y Lenguajes 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET" />
- 
-  <!-- Bases de Datos -->
+  -->
+
+  <!-- 
+  Bases de Datos
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB" />
- 
-  <!-- Herramientas -->
+  -->
+
+  <!-- 
+  Herramientas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" title="NPM" />
+  -->
 
-  <!-- Diseño / Prototipado -->
+  <!-- 
+  Diseño / Prototipado 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma" />
-</p>
+  -->
 
----
+<!-- </p> -->
 
 # 💼 Tech Stack
-
-<div align="center">
 
 <table>
   <thead>
     <tr>
-      <th style="background-color:#8CB4D8; color:white">Categoría</th>
-      <th style="background-color:#8CB4D8; color:white">Tecnologías</th>
+      <th style="background-color:#8CB4D8; color:#2D3643">Categoría</th>
+      <th style="background-color:#8CB4D8; color:#2D3643">Tecnologías</th>
     </tr>
   </thead>
   <tbody>
@@ -116,23 +139,10 @@
   </tbody>
 </table>
 
-</div>
-
----
-
-# 🌐 Network & Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/lauldp)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/543813399463)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=B4004E)](https://www.instagram.com/lautaro_leall)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B)](mailto:lautaro.leall@gmail.com)
-
 ---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
