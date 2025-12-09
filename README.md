@@ -38,7 +38,7 @@
 
 # 💼 Tech Stack
 
-<!-- <div style="display: flex; flex-direction: column; width: 100%">
+<div style="display: flex; flex-direction: column; width: 100%;">
   <table>
     <thead>
       <tr>
@@ -91,16 +91,7 @@
       </tr>
     </tbody>
   </table>
-</div> -->
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" title="TailwindCSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap"/> <img src="https://vitejs.dev/logo.svg" height="35" title="Vite"/> |
-| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="NodeJS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35" title="C"/> |
-| **Bases de Datos** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB"/> |
-| **Herramientas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" title="NPM"/> |
-| **Diseño / UI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma"/> |
-
+</div>
 
 ---
 
