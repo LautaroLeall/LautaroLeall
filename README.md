@@ -26,7 +26,7 @@
 
 # 🌐 Network & Contact
 
-[![LinkedIn](https://img.shields.io/badge/-Linked&labelColor=004182)](https://www.linkedin.com/in/lauldp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauldp)
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/543813399463)
 &nbsp;
@@ -36,10 +36,11 @@
 
 ---
 
-# 💼 Stack Tech
+# 💼 Tech Stack
 
 <details>
-<summary>`Frontend 🎨`</summary>
+<summary><strong>🎨 Frontend</strong></summary>
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
@@ -49,39 +50,32 @@
 <img src="https://vitejs.dev/logo.svg" height="35"/>
 </details>
 
----
-
 <details>
-<summary>`Backend 🛠️`</summary>
+<summary><strong>🛠️ Backend</strong></summary>
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35"/>
 </details>
 
----
-
 <details>
-<summary>`Bases de Datos 🗄️`</summary>
+<summary><strong>🗄️ Bases de Datos</strong></summary>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
 </details>
 
----
-
 <details>
-<summary>`Herramientas 🔧`</summary>
+<summary><strong>🔧 Herramientas</strong></summary>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35"/>
 </details>
 
----
-
 <details>
-<summary>`Diseño / UI 🎨`</summary>
+<summary><strong>🎨 Diseño / UI</strong></summary>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
 </details>
