@@ -9,7 +9,11 @@
 
 # 🚀 About Me
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LautaroLeall&theme=nord_dark)
+
+</div>
 
 🎓 Software Development and Quality student at UNSTA. <br>
 👨‍💻 Passionate about web development, clean code, and teamwork. <br>
@@ -26,6 +30,8 @@
 
 # 🌐 Network & Contact
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/lauldp)
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/543813399463)
@@ -34,10 +40,13 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B)](mailto:lautaro.leall@gmail.com)
 
+</div>
+
 ---
 
 # 💼 Tech Stack
 
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -90,14 +99,19 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 ---
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -105,7 +119,11 @@
 
 # 📦 Languages Overview
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LautaroLeall&theme=nord_dark)
+
+</div>
 
 ---
 
