@@ -84,52 +84,15 @@
 
 <!-- </p> -->
 
-# 💼 Tech Stack
+## 💼 Tech Stack
 
-<table>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" title="TailwindCSS"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap"/>
-      <img src="https://vitejs.dev/logo.svg" height="35" title="Vite"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35" title="C"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Bases de Datos</strong></td>
-    <td align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Herramientas</strong></td>
-    <td align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" title="NPM"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Diseño / UI</strong></td>
-    <td align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma"/>
-    </td>
-  </tr>
-</table>
+|     Categoría      | Tecnologías                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :----------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    **Frontend**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35" title="TailwindCSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap"/> <img src="https://vitejs.dev/logo.svg" height="35" title="Vite"/> |
+|    **Backend**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35" title=".NET"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35" title="C"/>                                                                                                                                                                                                                                                                                                                                  |
+| **Bases de Datos** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  **Herramientas**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" title="NPM"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|  **Diseño / UI**   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ---
 
