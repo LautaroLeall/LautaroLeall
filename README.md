@@ -60,14 +60,14 @@
 </details>
 
 <details>
-  <summary><strong>🗄️ BASES DE DATOS</strong></summary>
+  <summary><strong>🗄️ DATABASES</strong></summary>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
 </details>
 
 <details>
-  <summary><strong>🧰 HERRAMIENTAS</strong></summary>
+  <summary><strong>🧰 TOOLS</strong></summary>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-  <summary><strong>🎨 DISEÑO / UI</strong></summary>
+  <summary><strong>🎨 DESIGN / UI</strong></summary>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
 </details>
