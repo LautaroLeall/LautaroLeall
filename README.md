@@ -100,7 +100,7 @@
   <h3>Shall we chat?</h3>
   <p>I'm open to collaborating, learning, and building impactful solutions.</p>
     <a href="mailto:lautaro.leall@gmail.com">
-      <img src="https://img.shields.io/badge/%20Escribime%20un%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
 
