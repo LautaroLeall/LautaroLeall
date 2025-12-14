@@ -84,9 +84,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=nord&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -94,7 +92,7 @@
 
 # 📦 Languages Overview
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LautaroLeall&theme=nord_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
