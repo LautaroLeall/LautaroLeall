@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
-  <img src="https://vitejs.dev/logo.svg" height="35"/>
+  <!-- <img src="https://vitejs.dev/logo.svg" height="35"/> -->
 </details>
 
 <details>
