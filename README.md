@@ -38,47 +38,13 @@
 
 # 💼 Tech Stack
 
-<details>
-  <summary><strong>🚀 FRONTEND</strong></summary>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
-  <!-- <img src="https://vitejs.dev/logo.svg" height="35"/> -->
-</details>
-
-<details>
-  <summary><strong>🛠️ BACKEND</strong></summary>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="35"/>
-</details>
-
-<details>
-  <summary><strong>🗄️ DATABASES</strong></summary>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
-</details>
-
-<details>
-  <summary><strong>🧰 TOOLS</strong></summary>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35"/>
-</details>
-
-<details>
-  <summary><strong>🎨 DESIGN / UI</strong></summary>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
-</details>
+| Category | Technologies |
+|:--|:--|
+| **FrontEnd** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> |
+| **BackEnd** | <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,c" /> |
+| **DataBases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,npm" /> |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma" /> |
 
 ---
 
@@ -87,12 +53,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=nord&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-# 📦 Languages Overview
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -105,5 +65,3 @@
 </div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=LautaroLeall&icon=0&color=0)](https://visitcount.itsvg.in)
