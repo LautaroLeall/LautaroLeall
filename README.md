@@ -1,5 +1,3 @@
-https://gemini.google.com/share/1115de838b70
-
 <div align="center">
   <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/lauldp" style="color:#8CB4D8;">Lautaro Leal Del Prete</a> 👨‍💻</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=8CB4D8&center=true&vCenter=true&width=450&lines=Developer+Full+Stack;Always+Learning+and+Creating!" alt="Typing SVG" />
