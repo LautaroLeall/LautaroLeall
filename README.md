@@ -11,7 +11,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LautaroLeall&theme=nord_dark)
 
-🎓 Software Development and Quality student at UNSTA. <br>
+🎓 Software Development and Quality at UNSTA. <br>
 👨‍💻 Passionate about web development, clean code, and teamwork. <br>
 🔄 Experience in collaborative projects applying SCRUM and agile methodologies. <br>
 🚀 Constantly learning and building solutions that add value.
