@@ -9,7 +9,7 @@
 
 # 🚀 About Me
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LautaroLeall&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LautaroLeall&theme=nord_dark&v=1)
 
 🎓 Software Development and Quality at UNSTA. <br>
 👨‍💻 Passionate about web development, clean code, and teamwork. <br>
@@ -50,11 +50,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=LautaroLeall&theme=nord&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LautaroLeall&theme=nord&hide_border=false&v=1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLeall&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
 
 ---
 
