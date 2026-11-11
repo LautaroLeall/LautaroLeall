@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · Software Quality & Architecture · Tucumán, Argentina</h3>
 
 <p align="center">
-  <a href="https://portafolio-lldp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-portafolio--lldp.vercel.app-0d6efd?logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.lautarolealdev.com/"><img src="https://img.shields.io/badge/Portfolio-LautaroLeal.dev-0d6efd" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/lauldp/"><img src="https://img.shields.io/badge/LinkedIn-lauldp-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lautaroleal4@gmail.com"><img src="https://img.shields.io/badge/Email-lautaroleal4%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%7C%20Tucum%C3%A1n-2ea44f" alt="Open to work" />
