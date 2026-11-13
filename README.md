@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · Software Quality & Architecture · Tucumán, Argentina</h3>
 
 <p align="center">
-  <a href="https://www.lautarolealdev.com/"><img src="https://img.shields.io/badge/Portfolio-LautaroLeal.dev-0d6efd" alt="Portfolio" /></a>
+  <a href="https://lautarolealdev.com"><img src="https://img.shields.io/badge/Portfolio-lautarolealdev.com-0d6efd?logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/lauldp/"><img src="https://img.shields.io/badge/LinkedIn-lauldp-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lautaroleal4@gmail.com"><img src="https://img.shields.io/badge/Email-lautaroleal4%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%7C%20Tucum%C3%A1n-2ea44f" alt="Open to work" />
@@ -18,7 +18,7 @@ Software Development & Quality Assurance graduate from Universidad del Norte San
 
 ### 🛠️ What I've built
 
-- **Full Stack Developer & Founder ([LLDP Studio](https://servicios-lldp.vercel.app/), 2024–Present):** shipped **11+ production web applications**, custom management systems, e-commerce platforms, and high-conversion landing pages for real clients — owning architecture, UI/UX, SEO, and sub-20 kB gzipped bundle optimization.
+- **Full Stack Developer & Freelance ([lautarolealdev.com](https://lautarolealdev.com), 2024–Present):** shipped **11+ production web applications**, custom management systems, e-commerce platforms, and high-conversion landing pages for real clients — owning architecture, UI/UX, SEO, and sub-20 kB gzipped bundle optimization.
 - **Multi-tenant SaaS & AI automation:** architected **NutriOliva**, a clinical nutrition SaaS with 17 PostgreSQL migrations, hardened RLS, and Deno Edge Functions running **Claude AI** for calorie estimation & PDF meal-plan parsing; and **Latido**, a QR/NFC customer feedback & WhatsApp SLA recovery platform verified by **70/70 PGlite security tests**.
 - **Capstone Thesis — [Fleeswap](https://fleeswap.vercel.app/):** Frontend Lead & QA Engineer for a P2P collector marketplace and real-time barter platform. Built a feature-slice React 19 app with anti-XSS in-memory auth (`httpOnly` refresh rotation), per-trade **Socket.IO** rooms, and **Cypress + Mocha/Chai** E2E and integration suites.
 
@@ -149,5 +149,5 @@ Software Development & Quality Assurance graduate from Universidad del Norte San
 
 <p align="center">
   🔎 Looking for <b>Full Stack, Frontend or QA Automation</b> roles — remote or in Tucumán. Available immediately.<br/>
-  🇦🇷 También en español: explorá mi <a href="https://portafolio-lldp.vercel.app/">Portafolio interactivo</a>, <a href="https://servicios-lldp.vercel.app/">LLDP Studio</a> o escribime por <a href="https://www.linkedin.com/in/lauldp/">LinkedIn</a> / <a href="https://wa.me/5493813399463">WhatsApp</a>.
+  🇦🇷 También en español: explorá mi <a href="https://lautarolealdev.com">Portafolio y Servicios</a> o escribime por <a href="https://www.linkedin.com/in/lauldp/">LinkedIn</a> / <a href="https://wa.me/5493813399463">WhatsApp</a>.
 </p>
